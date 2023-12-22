@@ -20,9 +20,6 @@
 
 ## Deploy program from web app
 
-> [!WARNING]  
-> This is for demonstration purposes or local testing only, in production applications you
-> should avoid building a public facing web app with private key information
 
 Information on generating a private key, seeding a wallet with funds, and finding a spendable record can be found here
 if you are unfamiliar: https://developer.aleo.org/testnet/getting_started/deploy_execute_demo
